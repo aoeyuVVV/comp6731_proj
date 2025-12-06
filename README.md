@@ -63,7 +63,7 @@ DERMATOLOGY_DATASET_CSV=/path/to/dermatology.csv
 1. **If the `.env` file doesn't exist:**
    - Create it manually:
      ```bash
-     cp .env.example to .env
+     cp .env.example .env
      ```
    - Update the template with paths to match your system:
      ```bash
